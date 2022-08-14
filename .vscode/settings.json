@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "python.formatting.blackPath": "/usr/local/bin/black",
+    "files.autoSave": "onFocusChange",
+}
